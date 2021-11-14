@@ -2,7 +2,7 @@ h1 {
   font-size: 20px;
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: left;
   color: white;
 }
 h2 {
@@ -28,6 +28,7 @@ h3 {
   margin: 0;
   padding: 0;
   background-color: grey;
+  width: 100%;
 }
 
 /* Main body  */
@@ -74,4 +75,3 @@ footer {
   background-color: darkgray;
   text-align: center;
 }
-
